@@ -6,7 +6,7 @@
   
 - 🌱 I'm having knowledge about **Web Developer**
 
-- 💬 Ask me about **html, css, js, react, mysql,Mongodb,Nodejs,Express**
+- 💬 Ask me about **html, css, Javscript, typeScript, reactjs,Nextjs, Sql,Mongodb,Nodejs,Express**
 
 - 📫 How You Reach To Me **ashahnawaz010@gmail**
 
