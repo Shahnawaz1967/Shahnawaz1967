@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for MD SHAHNAWAZ -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#0f62fe;">MD SHAHNAWAZ</span></h1>
+<h1 align="center">Hi , Iam <span style="color:#0f62fe;">MD SHAHNAWAZ</span></h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Developer | Lifelong Learner</h3>
 
 <p align="center">
