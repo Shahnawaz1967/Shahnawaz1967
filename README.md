@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for MD SHAHNAWAZ -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0f62fe;">MD SHAHNAWAZ</span></h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
+<h3 align="center">  Full Stack Web Developer | MERN Stack Developer | Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;leetcode+solver;Let's+Build+Awesome+Projects+Together!" alt="Typing SVG" />
@@ -42,7 +42,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,git,github,aws,s3,ec2,vscode,vercel,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,git,github,aws,vscode,vercel,postman,figma" />
 </p>
 
 ---
@@ -70,10 +70,10 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🚀 Flashcard Generator | Smart flashcard creator to boost learning | [Live](https://your-flashcard-app.com) |
+| ✅ Task Manager App | where users manage their task | [Live](task-managementmern.netlify.app/) |
 | 🎬 Netflix Clone | Responsive Netflix UI with Firebase Auth | [Repo](https://github.com/your-github-username/netflix-clone) |
-| ✅ Task Manager App | JWT-secured MERN App for managing tasks | [Repo](https://github.com/your-github-username/task-manager) |
-
+| Chat-Application | Built a real-time MERN chat app with user authentication, socket.io integration, and responsive UI using React, Node.js, and MongoDB | [Repo](https://github.com/Shahnawaz1967/chat-app.git) |
+| Personal-portfolio | using Nextjs and use MongoDb as database to store messages | (www.shahnawaz.tech/) |
 ---
 
 ## 📅 GitHub Activity Graph
@@ -86,7 +86,7 @@
 
 ## ✨ Dev Quote
 
-> "Programs must be written for people to read, and only incidentally for machines to execute." – **Harold Abelson**
+> "Simplicity is the soul of efficiency**
 
 ---
 
@@ -99,5 +99,5 @@
 ---
 
 <p align="center">
-  <b>✨ Thank you for visiting! Let's connect and build something amazing together. ✨</b>
+  <b>✨ Thank you for visiting! Let's connect and build something amazing together. </b>
 </p>
