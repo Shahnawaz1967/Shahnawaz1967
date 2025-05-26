@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Contributor;Let's+Build+Awesome+Projects+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;leetcode+solver;Let's+Build+Awesome+Projects+Together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,10 +12,10 @@
 ## 🌟 About Me
 
 - 🔭 I’m currently working on **MERN Stack Applications**
-- 🌱 Learning **Next.js**, **TypeScript**, and **DevOps**
+- 🌱 Learning **Next.js**, **TypeScript**, and **Javascript**
 - 🧠 Always eager to explore new technologies and share knowledge
-- 💬 Ask me about **React, Node, MongoDB, System Design**
-- 📫 Reach me at: `mdshahnawaz@example.com`
+- 💬 Ask me about **React, Node, MongoDB, Express**
+- 📫 Reach me at: `ashahnawaz010@gmail.com`
 - ⚡ Fun Fact: I enjoy **solving real-world problems through code**
 
 ---
@@ -23,16 +23,16 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/mdsahnawaz24/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mdshahnawaz@example.com">
+  <a href="mailto:ashahnawaz010@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://www.shahnawaz.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/Shahnawaz1967">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -42,7 +42,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,git,github,vscode,vercel,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tpescript,react,next,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,git,github,aws,s3,ec2,vscode,vercel,postman,figma" />
 </p>
 
 ---
@@ -63,12 +63,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox&margin-w=15&no-frame=true" />
-</p>
 
 ---
 
