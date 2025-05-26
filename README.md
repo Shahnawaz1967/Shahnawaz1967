@@ -1,34 +1,109 @@
-# `Md Shahnawaz Alam`
+<!-- GitHub Profile README for MD SHAHNAWAZ -->
 
-## 💫`About Me`
-  
-- 🔭 I'm a **Full Stack Web Developer**
-  
-- 🌱 I'm having knowledge about **Web Developer**
+<h1 align="center">Hi 👋, I'm <span style="color:#0f62fe;">MD SHAHNAWAZ</span></h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
-- 💬 Ask me about **html, css, Javscript, typeScript, reactjs,Nextjs, Sql,Mongodb,Nodejs,Express**
-
-- 📫 How You Reach To Me **ashahnawaz010@gmail**
-
-- I'm passitionate web developer, with good administrative and communication skills.
-  
-  
-  ## 🌐`Connect with me`
-  <p align="left">
-<a href="https://www.linkedin.com/in/md-shahnawaz-alam-87b38a232/" target="blank"><img align="justify-center" src="https://th.bing.com/th?id=AMMS_edf03e8364b4553818bb79cf092d0468&w=102&h=102&c=7&o=6&oif=webp&pid=SANGAM" alt="Md Shahnawaz Alam" height="30" width="40" /></a>
-
-</p>
-
-## ♻  `Languages and Tools`
-<p align="left">   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ROhIEobjjPmlblmTMkTacQHaFj?w=256&h=192&c=7&r=0&o=5&pid=1.7" alt="css3" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.i2fRBk3GsYLeUk_Rh7AzHwHaDP?w=288&h=153&c=7&r=0&o=5&pid=1.7" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.o-wNqCyhGc3XpFMfCCFpigAAAA?w=266&h=180&c=7&r=0&o=5&pid=1.7" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wmVr1W0nuF_M_OswcpjyjgHaEc?w=276&h=180&c=7&r=0&o=5&pid=1.7" alt="java" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?q=JavaScript+Icon&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247" alt="javascript" width="40" height="40"/> </a> <br/> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.NQULz3JfegRxS0GUrshAxQHaHk?w=196&h=200&c=7&r=0&o=5&pid=1.7" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.a0fX_sFdPhpd4IasHICPbQHaEX?w=281&h=180&c=7&r=0&o=5&pid=1.7" alt="mysql" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.5gf2JQQmWla-GU-WXTrGcgHaE8?w=262&h=180&c=7&r=0&o=5&pid=1.7" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.MF5V_dkybUTcfzwHFh0VSwHaEO?w=301&h=180&c=7&r=0&o=5&pid=1.7" alt="react" width="40" height="40"/> </a>  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZDYi2dxaoGTETbqGzCCHPwHaDD?w=328&h=144&c=7&r=0&o=5&pid=1.7" alt="redux" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-   <a href="http://www.cybersecurity.com.tr/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ8oSxAHS14v6fBzYgYC_2imqTsnmhWHcb90wSQXK2z29MQCVshx0AnnL-AH4gisOZAmI&usqp=CAU" alt="tailwind" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Contributor;Let's+Build+Awesome+Projects+Together!" alt="Typing SVG" />
 </p>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahnawaz1967&show_icons=true&locale=en" alt="Md Shahnawaz Alam" /></p>
+## 🌟 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnawaz1967&" alt="Shahnawaz1967" /></p>
+- 🔭 I’m currently working on **MERN Stack Applications**
+- 🌱 Learning **Next.js**, **TypeScript**, and **DevOps**
+- 🧠 Always eager to explore new technologies and share knowledge
+- 💬 Ask me about **React, Node, MongoDB, System Design**
+- 📫 Reach me at: `mdshahnawaz@example.com`
+- ⚡ Fun Fact: I enjoy **solving real-world problems through code**
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahnawaz1967&label=Profile%20views&color=0e75b6&style=flat" alt="Shahnawaz1967" /> </p>
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdshahnawaz@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,git,github,vscode,vercel,postman,figma" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+</p>
+
+---
+
+## 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🚀 Flashcard Generator | Smart flashcard creator to boost learning | [Live](https://your-flashcard-app.com) |
+| 🎬 Netflix Clone | Responsive Netflix UI with Firebase Auth | [Repo](https://github.com/your-github-username/netflix-clone) |
+| ✅ Task Manager App | JWT-secured MERN App for managing tasks | [Repo](https://github.com/your-github-username/task-manager) |
+
+---
+
+## 📅 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-compact" />
+</p>
+
+---
+
+## ✨ Dev Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute." – **Harold Abelson**
+
+---
+
+## 📍 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" />
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Thank you for visiting! Let's connect and build something amazing together. ✨</b>
+</p>
