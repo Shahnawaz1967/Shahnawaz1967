@@ -92,8 +92,13 @@
 ## 📍 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahnawaz1967&style=flat-square&color=blue" />
+  <a href="https://www.linkedin.com/in/mdsahnawaz24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-mdsahnawaz24-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Shahnawaz1967&style=flat-square&color=blue" alt="Profile views"/>
 </p>
+
 
 ---
 
